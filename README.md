@@ -3,8 +3,8 @@ Um projeto interativo, que consiste em um carrosel de imagens, onde podemos visi
 
 ## Podemos ver atraves dessa aprensentação como ele se comporta, a animação e a interação na troca das images/descrições:
 
-[<img src="./src/imagens/imagens readme/Animação tela carrossel.gif">](https://slv-levi.github.io/carrosel-cidades/)
-<a href="https://slv-levi.github.io/carrosel-cidades/" target="_blank">link para a página.</a>
+[<img src="./src/imagens/imagens readme/Animação tela carrossel.gif">](https://slv-levi.github.io/carrossel-cidades/)
+<a href="https://slv-levi.github.io/carrossel-cidades/" target="_blank">link para a página.</a>
 
 ## Tecnologias utilizadas
 - HTML;
